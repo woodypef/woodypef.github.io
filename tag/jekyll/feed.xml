@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://woodypef.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://woodypef.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-25T23:02:33+09:00</updated>
+  <id>https://woodypef.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT’s Blog | </title>
+  
+
+  
+    <subtitle>오늘의 IT log</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - 블로그를 만들어보아요!!</title>
+      <link href="https://woodypef.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어보아요!!" />
+      <published>2020-06-08T16:40:00+09:00</published>
+      <updated>2020-06-08T16:40:00+09:00</updated>
+      <id>https://woodypef.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://woodypef.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic입니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>woodypef</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">이 글은 jekyll basic입니다.!!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
